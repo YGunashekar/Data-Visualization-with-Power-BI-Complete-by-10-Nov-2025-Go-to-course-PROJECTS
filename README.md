@@ -20,4 +20,4 @@ Course 7 : NLP Essentials: Applications to Real-World Problems
 100%
 Course 8 : Deep Learning Mastery: Data-Intensive
 
-
+https://github.com/YGunashekar/ALL-DATA-SCIENCE-PROJECTS/blob/main/last%20proj%20sol.pdf
